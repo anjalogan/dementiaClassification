@@ -1,0 +1,4 @@
+/kaggle/Data/*
+/kaggle/checkpoints/*
+/kaggle/.idea/*
+/kaggle/__pycache__/*
